@@ -1,6 +1,8 @@
 # Hi there, I'm Akanksha Mishra👋
 ## I'm a Tech Enthusiast and frontend Developer!
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other Developers.
 - 📫 How to reach me: akankshamishradolly@gmail.com
@@ -9,7 +11,6 @@
 - 😄 Pronouns: She/Her
 - ✨ Originally from India.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Akanksha053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akanksha0812" height="30" width="40" /></a>
