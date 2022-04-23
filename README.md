@@ -1,7 +1,7 @@
 # Hi there, I'm Akanksha Mishra👋
 ## I'm a Tech Enthusiast and frontend Developer!
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I’m looking to collaborate with other Developers.
