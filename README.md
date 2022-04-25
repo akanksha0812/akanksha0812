@@ -3,13 +3,12 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate with other Developers.
+- 🌱 I’m currently learning Full Stack Web Development
+- 👯 I’m looking to collaborate with other Developers
 - 📫 How to reach me: akankshamishradolly@gmail.com
-- ⚡ Fun fact: I love to draw and sing.
-- 💬 Ask me about 
+- ⚡ Fun fact: I love to draw and sing
 - 😄 Pronouns: She/Her
-- ✨ Originally from India.
+- ✨ Originally from India
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +36,8 @@
 </p>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" alt="akanksha0812" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" alt="akanksha0812" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" alt="akanksha0812" /></p>
+</br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" alt="akanksha0812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" alt="akanksha0812" /></p>
