@@ -8,7 +8,6 @@
 - 📫 How to reach me: akankshamishradolly@gmail.com
 - ⚡ Fun fact: I love to draw and sing
 - 😄 Pronouns: She/Her
-- ✨ Originally from India
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
