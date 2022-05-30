@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love to draw and sing
 - 😄 Pronouns: She/Her
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha0812" alt="akanksha0812" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Akanksha053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akanksha0812" height="30" width="40" /></a>
