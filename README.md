@@ -23,17 +23,16 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://dev.to/akanksha0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akanksha0812" height="30" width="40" /></a>
-<a href="https://twitter.com/akanksha053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akanksha053" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/akanksha-mishra-845a1321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-mishra-845a1321a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akanksha-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akanksha-mishra" height="30" width="40" /></a>
-<a href="https://medium.com/@akankshamishradolly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akankshamishradolly" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/akanksha_0812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akanksha_0812" height="30" width="40" /></a>
+  
 <a href="https://www.hackerrank.com/akankshamishrad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akankshamishrad1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mishra08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mishra08" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akanksha_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akanksha_08" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@akanksha1487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@akanksha1487" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/akankshamishradolly/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/akankshamishradolly/profile" height="30" width="40" /></a>
+
+
 </p>
 </br>
 
