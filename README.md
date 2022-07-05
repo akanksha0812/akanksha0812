@@ -29,7 +29,6 @@
 <img alt="opencv" height="30" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;" />
 <br>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampurankishoresrivastava&show_icons=true&locale=en&layout=compact" alt="sampurankishoresrivastava" /></p>
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
