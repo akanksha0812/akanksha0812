@@ -5,11 +5,8 @@
   <img align="center"  alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </p>
 
-<h3> - 🌱 I’m currently learning Data Structure and Algorithm
-- 👯 I’m looking to collaborate with other Developers
-- 📫 How to reach me: akankshamishradolly@gmail.com
-- ⚡ Fun fact: I love to draw and sing
-- 😄 Pronouns: She/Her </h3>
+<h3> - I am currently studying in second year of my college in BTech IT branch. I am a passionate learner who is very much inclined towards the field of Web Development and Designing. I am currently exploring backend tools. I love participating in various open-source programs and I contributed in Hacktoberfest 2021. I have completed 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs 2021 and received some cool goodies. I also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. I am finalist in Microsoft Azure Women Hackathon 2022. I love listening to songs of Arijit Singh while coding.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
