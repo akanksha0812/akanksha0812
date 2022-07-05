@@ -1,21 +1,5 @@
  <h1 align="center">Hey! I'm Akanksha👋
                     I'm a Full Stack Web Developer!</h1>
-                    
- return DefaultTextStyle(
-  style: const TextStyle(
-    fontSize: 20.0,
-  ),
-  child: AnimatedTextKit(
-    animatedTexts: [
-      WavyAnimatedText('Hello World'),
-      WavyAnimatedText('Look at the waves'),
-    ],
-    isRepeatingAnimation: true,
-    onTap: () {
-      print("Tap Event");
-    },
-  ),
-);
 
 <p align="center">
   <img align="center"  alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
