@@ -1,21 +1,21 @@
- <h1 align="center"># Hey! I'm Akanksha👋
-                    ## I'm a frontend Developer!</h1>
+ <h1 align="center">Hey! I'm Akanksha👋
+                    I'm a Full Stack Web Developer!</h1>
 
 <p align="center">
   <img align="center"  alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 </p>
 
-- 🌱 I’m currently learning Full Stack Web Development
+<h3> - 🌱 I’m currently learning Data Structure and Algorithm
 - 👯 I’m looking to collaborate with other Developers
 - 📫 How to reach me: akankshamishradolly@gmail.com
 - ⚡ Fun fact: I love to draw and sing
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha0812" alt="akanksha0812" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha0812" alt="akanksha0812" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Akanksha053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akanksha0812" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akanksha-mishra-845a1321a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akanksha0812" height="30" width="40" /></a>
