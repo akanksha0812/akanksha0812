@@ -1,5 +1,4 @@
- <h1 align="center">Hey! I'm Akanksha👋
-                    I'm a Full Stack Web Developer!</h1>
+ <h1 align="center">Hey! I'm Akanksha👋  I'm a Full Stack Web Developer!</h1>
 
 <p align="center">
   <img align="center"  alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
