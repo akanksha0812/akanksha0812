@@ -29,20 +29,7 @@
 <br>
 </p>
 
-<h3 align="left">Connect with me</h3>
-<p align="center">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sampurankishoresrivastava" height="30" width="40" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sampurankishore" height="30" width="40" /></a>
-<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwwsampuran-kishore-srivastava-723b36212/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="httusers/18811158/sampuran-kishore-srivastava" height="30" width="40" /></a>
-<a href="https://medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sampuran01122001" height="30" width="40" /></a>
-<a href="https://www.codechef.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="users/sampuran_2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sampuran01122001" height="30" width="40" /></a>
-<a href="https://codeforces.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sampuran01122001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sampuran/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sampuran" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://asampuran01122001/saved-articles/" height="30" width="40" /></a>
-</p>
+
 
 <h3>My Github Stats </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" alt="akanksha0812" /></p>
