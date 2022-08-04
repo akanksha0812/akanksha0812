@@ -10,7 +10,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akanksha0812" alt="akanksha0812" /></a> </p>
 
-
 <h3> Tech Stack </h3>
 <p align="center">
 <img  alt="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -28,8 +27,6 @@
 <img alt="opencv" height="30" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="padding-right:10px;" />
 <br>
 </p>
-
-
 
 <h3>My Github Stats </h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" alt="akanksha0812" /></p>
