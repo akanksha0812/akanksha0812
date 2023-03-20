@@ -30,12 +30,10 @@
 
 <h3>My Github Stats </h3>
 
-
-
  <table border = "0">
   <tr>
  <a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" />
 </a>
 
 <a href="https://github.com/akanksha0812/github-readme-stats">
