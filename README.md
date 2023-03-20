@@ -29,13 +29,24 @@
 </p>
 
 <h3>My Github Stats </h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" alt="akanksha0812" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" alt="akanksha0812" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" alt="akanksha0812" /></p>
-<br>
-</p> 
+
+ <table border = "0">
+  <tr>
+ <a href="https://github.com/akanksha0812/github-readme-stats">
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+</a>
+
+<a href="https://github.com/akanksha0812/github-readme-stats">
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akanksha0812&" />
+</a>
+    </tr>
+</table>
+<p align = "center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akanksha0812&show_icons=true&locale=en&layout=compact" />
+ 
+
 
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://ko-fi.com/akankshamishra73"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="akankshamishra73" /></a></p><br><br>
