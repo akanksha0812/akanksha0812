@@ -33,7 +33,7 @@
  <table border = "0">
   <tr>
  <a href="https://github.com/akanksha0812/github-readme-stats">
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&locale=en" />
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=akanksha0812&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/akanksha0812/github-readme-stats">
