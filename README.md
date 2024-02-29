@@ -1,6 +1,6 @@
 
 
-# Hello, I'm [Akanksha] 👋
+# Hello, I'm Akanksha👋
 
 Final Year B.Tech IT Student | Web Developer & Designer | Open Source Contributor
 
