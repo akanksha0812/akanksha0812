@@ -1,10 +1,28 @@
- <h1 align="center">Hey! I'm Akanksha👋  I'm a Full Stack Web Developer!</h1> 
 
-<p align="center">
-  <img align="center"  alt="Coding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-</p>
 
-<h3> I am currently studying in Final year of my college in BTech IT branch. I am a passionate learner who is very much inclined towards the field of Web Development and Designing. I am currently exploring backend tools. I love participating in various open-source programs and I contributed in Hacktoberfest 2021. I have completed 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program 2021 and received some cool goodies. I also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. I am finalist in Microsoft Azure Women Hackathon 2022. I love listening to songs of Arijit Singh while coding.</h3>
+# Hello, I'm [Akanksha] 👋
+
+Final Year B.Tech IT Student | Web Developer & Designer | Open Source Contributor
+
+🎓 Final year student pursuing a Bachelor's degree in Information Technology, with a passion for web development and designing.
+
+🚀 Currently exploring backend tools and technologies to enhance my skills in building robust and scalable web applications.
+
+💻 Experienced in front-end technologies like HTML, CSS, JavaScript, and frameworks like React and Vue.js.
+
+🌱 Actively learning and staying updated with the latest trends and advancements in web development through online courses and tutorials.
+
+🌟 Contributed to open-source projects during Hacktoberfest 2021, fostering collaboration and learning within the developer community.
+
+🏆 Completed the 30DaysOfGoogleCloud and Learn-to-earn-Qwiklabs program in 2021, receiving recognition and cool goodies for my achievements.
+
+🎓 Proud recipient of the WEAmplify Scholarship 2022 from Harvard University for attending the WECode Conference, expanding my knowledge and networking with like-minded individuals.
+
+🏅 Finalist in the Microsoft Azure Women Hackathon 2022, showcasing my problem-solving skills and teamwork in a competitive environment.
+
+🎵 Enjoys coding while listening to soulful songs of Arijit Singh, finding inspiration and focus in music during programming sessions.
+
+📫 Let's connect! Feel free to reach out to me via [email](mailto:mishra73akanksha@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akanksha-mishra-845a1321a/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha0812&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha0812" /> </p>
 
